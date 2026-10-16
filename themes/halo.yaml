@@ -16,7 +16,7 @@ Halo:
       # Page
       primary-background-color: "#eceef1"
       secondary-background-color: "#e3e5ea"
-      lovelace-background: "radial-gradient(ellipse 90% 60% at 12% 0%, #fbfbfc 0%, transparent 70%), radial-gradient(ellipse 80% 60% at 100% 100%, #d5d9e1 0%, transparent 70%), linear-gradient(170deg, #f0f1f4 0%, #e2e5ea 100%) fixed"
+      lovelace-background: "radial-gradient(ellipse 85% 55% at 10% 0%, #ffffff 0%, transparent 72%), radial-gradient(ellipse 90% 70% at 100% 100%, #b4bbc8 0%, transparent 72%), linear-gradient(160deg, #f4f5f7 0%, #dde0e6 50%, #c4c9d2 100%) fixed"
       # Text
       primary-text-color: "#1b1b1f"
       secondary-text-color: "#5c5c66"
@@ -56,7 +56,7 @@ Halo:
       # Page
       primary-background-color: "#0d1017"
       secondary-background-color: "#161a23"
-      lovelace-background: "radial-gradient(ellipse 90% 60% at 12% 0%, #22262e 0%, transparent 70%), radial-gradient(ellipse 90% 70% at 100% 100%, #0f2147 0%, transparent 70%), linear-gradient(170deg, #15171c 0%, #0f141f 55%, #0b1430 100%) fixed"
+      lovelace-background: "radial-gradient(ellipse 85% 55% at 10% 0%, #2e323b 0%, transparent 72%), radial-gradient(ellipse 95% 75% at 100% 100%, #16377a 0%, transparent 72%), linear-gradient(160deg, #1b1d23 0%, #111728 50%, #0a1a48 100%) fixed"
       # Text
       primary-text-color: "#ececf0"
       secondary-text-color: "#9a9aa6"
