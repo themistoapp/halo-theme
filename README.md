@@ -4,7 +4,7 @@ A Home Assistant theme to go with [Halo Cards](https://github.com/themistoapp/ha
 
 ![Halo theme, light and dark](images/preview.png)
 
-- **Light:** soft grey with a pale glow at the top left.
+- **Light:** warm white with a bright glow at the top left, deepening to soft sand.
 - **Dark:** graphite deepening to midnight blue.
 - Text, dividers and cards in the Halo cards' colours; 12px corners, Halo's soft shadow and no hairline border.
 - Ink accent, with toggles and sliders in Halo blue.
